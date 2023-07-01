@@ -1,0 +1,1004 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Wildlife conservation project, Raise Awareness, Wildlife Conservation efforts, Animals are in need" />
+    <meta name="description" content="" />
+    <title>wildlife-photography</title>
+    <link id="u-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" />
+    <style class="u-style">
+        .u-section-2 {
+            background-image: linear-gradient( 0deg,
+            rgba(0, 0, 0, 0.40),
+            rgba(0, 0, 0, 0.55)),
+            url("https://i.pinimg.com/564x/23/5c/f9/235cf936d2b839a0a3de8818bc190c72.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-2 .u-sheet-1 {
+            min-height: 700px;
+        }
+
+        .u-section-2 .u-group-1 {
+            width: 900px;
+            min-height: 500px;
+            margin: 0px auto 0;
+        }
+
+        .u-section-2 .u-container-layout-1 {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+
+        .u-section-2 .u-text-1 {
+            margin: 100px 0 0;
+        }
+
+        .u-section-2 .u-text-2 {
+            margin: 37px 0 0;
+        }
+
+        .u-section-2 .u-btn-1 {
+            background-image: none;
+            border-radius: 50px;
+            letter-spacing: 2px;
+            font-weight: 600;
+            font-size: 1.125rem;
+            margin: 30px auto 50px;
+        }
+
+        .u-section-2 .u-group-2 {
+            width: 670px;
+            min-height: 52px;
+            margin: 18px 0 30px auto;
+        }
+
+        .u-section-2 .u-text-3 {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-2 .u-group-1 {
+                width: 800px;
+                height: auto;
+                margin-bottom: 70px;
+            }
+            .u-section-2 .u-container-layout-1 {
+                padding-left: 49px;
+                padding-right: 49px;
+            }
+            .u-section-2 .u-text-1 {
+                margin-top: 50px;
+                font-size: 4.5rem;
+            }
+            .u-section-2 .u-text-2 {
+                margin-top: 30px;
+            }
+            .u-section-2 .u-btn-1 {
+                margin-top: 50px;
+            }
+            .u-section-2 .u-group-2 {
+                width: 470px;
+                height: auto;
+            }
+            .u-section-2 .u-text-3 {
+                margin-left: 16px;
+                margin-right: 16px;
+                position: relative;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-2 .u-group-1 {
+                margin-right: initial;
+                margin-left: initial;
+                width: auto;
+            }
+            .u-section-2 .u-container-layout-1 {
+                padding-left: 0;
+                padding-right: 0;
+            }
+            .u-section-2 .u-text-2 {
+                margin-left: 38px;
+                margin-right: 38px;
+            }
+            .u-section-2 .u-group-2 {
+                width: 360px;
+            }
+            .u-section-2 .u-text-3 {
+                margin-left: 13px;
+                margin-right: 13px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-2 .u-container-layout-1 {
+                padding-left: 28px;
+                padding-right: 28px;
+            }
+            .u-section-2 .u-text-1 {
+                font-size: 3.75rem;
+            }
+            .u-section-2 .u-text-2 {
+                margin-left: 18px;
+                margin-right: 18px;
+                margin-bottom: 50px;
+            }
+            .u-section-2 .u-btn-1 {
+                margin-top: 30px;
+            }
+            .u-section-2 .u-group-2 {
+                width: 338px;
+            }
+            .u-section-2 .u-text-3 {
+                margin-left: 9px;
+                margin-right: 9px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-2 .u-sheet-1 {
+                min-height: 695px;
+            }
+            .u-section-2 .u-group-1 {
+                margin-top: 30px;
+                margin-bottom: 0;
+                width: auto;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-2 .u-container-layout-1 {
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+            .u-section-2 .u-text-1 {
+                font-size: 3rem;
+            }
+            .u-section-2 .u-text-2 {
+                margin-left: 11px;
+                margin-right: 11px;
+            }
+            .u-section-2 .u-group-2 {
+                min-height: 65px;
+                margin-top: 70px;
+                margin-right: initial;
+                margin-left: initial;
+                width: auto;
+            }
+            .u-section-2 .u-text-3 {
+                margin-left: 6px;
+                margin-right: 6px;
+            }
+        }
+    </style>
+    <style class="u-style">
+        .u-section-3 .u-sheet-1 {
+            min-height: 935px;
+        }
+
+        .u-section-3 .u-group-1 {
+            min-height: 152px;
+            width: 800px;
+            margin: 77px auto 0;
+        }
+
+        .u-section-3 .u-container-layout-1 {
+            padding-left: 60px;
+            padding-right: 60px;
+        }
+
+        .u-section-3 .u-text-1 {
+            margin: 15px 0 0;
+        }
+
+        .u-section-3 .u-text-2 {
+            margin: 20px 0 15px;
+        }
+
+        .u-section-3 .u-layout-wrap-1 {
+            margin: 60px auto 90px 0;
+        }
+
+        .u-section-3 .u-image-1 {
+            min-height: 586px;
+            background-image: linear-gradient( 200deg,
+            rgba(0, 0, 0, 0.35),
+            rgba(0, 0, 0, 0.35)),
+            url("https://i.pinimg.com/564x/0c/a3/ca/0ca3ca72558a2c20bb22cb5555bb2ced.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-3 .u-container-layout-2 {
+            padding-left: 300px;
+            padding-right: 300px;
+        }
+
+        .u-section-3 .u-text-3 {
+            margin: 302px 0 39px;
+        }
+
+        .u-section-3 .u-image-2 {
+            min-height: 586px;
+            background-image: linear-gradient( 0deg,
+            rgba(0, 0, 0, 0.05),
+            rgba(0, 0, 0, 0.35)),
+            url("https://i.pinimg.com/564x/de/61/60/de616080b3b42588d790ea035721b6ad.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-3 .u-container-layout-3 {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .u-section-3 .u-text-4 {
+            margin: 302px 039px;
+        }
+
+        .u-section-3 .u-image-3 {
+            min-height: 586px;
+            background-image: linear-gradient( 0deg,
+            rgba(0, 0, 0, 0.35),
+            rgba(0, 0, 0, 0.35)),
+            url("https://i.pinimg.com/736x/41/69/f6/4169f697d6986ce204f3e1dfd768cf0d.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-3 .u-container-layout-4 {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .u-section-3 .u-text-5 {
+            margin: 302px 0 39px;
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-3 .u-sheet-1 {
+                min-height: 930px;
+            }
+            .u-section-3 .u-group-1 {
+                min-height: 150px;
+                height: auto;
+                width: 660px;
+                margin-top: 79px;
+            }
+            .u-section-3 .u-container-layout-1 {
+                padding-left: 49px;
+                padding-right: 49px;
+            }
+            .u-section-3 .u-layout-wrap-1 {
+                margin-top: 47px;
+                margin-bottom: 60px;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-3 .u-image-1 {
+                min-height: 527px;
+            }
+            .u-section-3 .u-container-layout-2 {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+            .u-section-3 .u-container-layout-3 {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+            .u-section-3 .u-container-layout-4 {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-3 .u-sheet-1 {
+                min-height: 828px;
+            }
+            .u-section-3 .u-group-1 {
+                min-height: 136px;
+                margin-top: 82px;
+                margin-right: initial;
+                margin-left: initial;
+                width: auto;
+            }
+            .u-section-3 .u-container-layout-1 {
+                padding-left: 38px;
+                padding-right: 38px;
+            }
+            .u-section-3 .u-layout-wrap-1 {
+                margin-top: 31px;
+                margin-bottom: 13px;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-3 .u-container-layout-2 {
+                padding-left: 19px;
+                padding-right: 19px;
+            }
+            .u-section-3 .u-container-layout-3 {
+                padding-left: 19px;
+                padding-right: 19px;
+            }
+            .u-section-3 .u-container-layout-4 {
+                padding-left: 19px;
+                padding-right: 19px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-3 .u-sheet-1 {
+                min-height: 1970px;
+            }
+            .u-section-3 .u-group-1 {
+                min-height: 150px;
+                width: 474px;
+                margin-top: 89px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .u-section-3 .u-container-layout-1 {
+                padding-left: 28px;
+                padding-right: 28px;
+            }
+            .u-section-3 .u-layout-wrap-1 {
+                margin-top: 20px;
+                margin-bottom: 89px;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-3 .u-image-1 {
+                min-height: 478px;
+            }
+            .u-section-3 .u-container-layout-2 {
+                padding-left: 14px;
+                padding-right: 14px;
+            }
+            .u-section-3 .u-container-layout-3 {
+                padding-left: 14px;
+                padding-right: 14px;
+            }
+            .u-section-3 .u-text-4 {
+                margin-top: 409px;
+            }
+            .u-section-3 .u-container-layout-4 {
+                padding-left: 14px;
+                padding-right: 14px;
+            }
+            .u-section-3 .u-text-5 {
+                margin-top: 409px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-3 .u-sheet-1 {
+                min-height: 2178px;
+            }
+            .u-section-3 .u-group-1 {
+                width: 340px;
+                margin-top: 115px;
+            }
+            .u-section-3 .u-container-layout-1 {
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+            .u-section-3 .u-layout-wrap-1 {
+                margin-bottom: 86px;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-3 .u-image-1 {
+                min-height: 464px;
+            }
+            .u-section-3 .u-container-layout-2 {
+                padding-left: 9px;
+                padding-right: 9px;
+            }
+            .u-section-3 .u-container-layout-3 {
+                padding-left: 9px;
+                padding-right: 9px;
+            }
+            .u-section-3 .u-text-4 {
+                margin-top: 302px;
+            }
+            .u-section-3 .u-container-layout-4 {
+                padding-left: 9px;
+                padding-right: 9px;
+            }
+            .u-section-3 .u-text-5 {
+                margin-top: 302px;
+            }
+        }
+    </style>
+    <style class="u-style">
+        .u-section-4 {
+
+            background-image: linear-gradient( 0deg,
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)),
+            url("https://pbs.twimg.com/media/DLeFwm5WAAAxcnh.jpg");
+            background-position: 50% 0%;
+        }
+
+        .u-section-4 .u-sheet-1 {
+            min-height: 761px;
+        }
+
+        .u-section-4 .u-group-1 {
+            width: 909px;
+            min-height: 356px;
+            background-image: none;
+            margin: 326px auto 39px;
+        }
+
+        .u-section-4 .u-container-layout-1 {
+            padding-left: 39px;
+            padding-right: 40px;
+        }
+
+        .u-section-4 .u-text-1 {
+            font-size: 3.75rem;
+            margin: 35px 0 0;
+        }
+
+        .u-section-4 .u-text-2 {
+            margin: 39px -1px 35px 1px;
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-4 .u-group-1 {
+                width: 700px;
+                height: auto;
+            }
+            .u-section-4 .u-container-layout-1 {
+                padding-left: 32px;
+                padding-right: 33px;
+            }
+            .u-section-4 .u-text-2 {
+                margin-right: 0;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-4 .u-group-1 {
+                width: 536px;
+            }
+            .u-section-4 .u-container-layout-1 {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-4 .u-group-1 {
+                width: 503px;
+            }
+            .u-section-4 .u-container-layout-1 {
+                padding-left: 18px;
+                padding-right: 19px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-4 .u-sheet-1 {
+                min-height: 855px;
+            }
+            .u-section-4 .u-group-1 {
+                width: 340px;
+                margin-top: 140px;
+                margin-bottom: 1px;
+            }
+            .u-section-4 .u-container-layout-1 {
+                padding-left: 12px;
+                padding-right: 12px;
+            }
+            .u-section-4 .u-text-2 {
+                margin-left: 0;
+            }
+        }
+    </style>
+    <style class="u-style">
+        .u-section-5 .u-sheet-1 {
+            min-height: 540px;
+        }
+
+        .u-section-5 .u-group-1 {
+            min-height: 410px;
+            width: 927px;
+            margin: 65px auto;
+        }
+
+        .u-section-5 .u-container-layout-1 {
+            padding-left: 60px;
+            padding-right: 60px;
+        }
+
+        .u-section-5 .u-text-1 {
+            margin: 40px 0 0;
+        }
+
+        .u-section-5 .u-text-2 {
+            margin: 54px 0 40px;
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-5 .u-sheet-1 {
+                min-height: 500px;
+            }
+            .u-section-5 .u-group-1 {
+                min-height: 315px;
+                height: auto;
+                margin-top: 93px;
+                margin-bottom: 93px;
+                margin-right: initial;
+                margin-left: initial;
+                width: auto;
+            }
+            .u-section-5 .u-container-layout-1 {
+                padding-left: 49px;
+                padding-right: 49px;
+            }
+            .u-section-5 .u-text-1 {
+                margin-top: 25px;
+            }
+            .u-section-5 .u-text-2 {
+                margin-bottom: 25px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-5 .u-group-1 {
+                min-height: 365px;
+                margin-top: 68px;
+                margin-bottom: 68px;
+                width: auto;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-5 .u-container-layout-1 {
+                padding-left: 38px;
+                padding-right: 38px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-5 .u-group-1 {
+                min-height: 340px;
+                margin-top: 80px;
+                margin-bottom: 80px;
+                width: auto;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-5 .u-container-layout-1 {
+                padding-left: 28px;
+                padding-right: 28px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-5 .u-sheet-1 {
+                min-height: 600px;
+            }
+            .u-section-5 .u-group-1 {
+                min-height: 478px;
+                margin-top: 61px;
+                margin-bottom: 61px;
+                width: auto;
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-5 .u-container-layout-1 {
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+        }
+    </style>
+    <style class="u-style">
+        .u-section-6 {
+            background-image: url("https://i.pinimg.com/564x/ef/f9/0d/eff90d524ece42fd84b5eed4186f6258.jpg");
+        }
+
+        .u-section-6 .u-sheet-1 {
+            min-height: 500px;
+        }
+    </style>
+    <style class="u-style">
+        .u-section-7 .u-sheet-1 {
+            min-height: 829px;
+        }
+
+        .u-section-7 .u-layout-wrap-1 {
+            margin: 90px auto 90px 0;
+        }
+
+        .u-section-7 .u-image-1 {
+            min-height: 47px;
+            background-image: url("https://i.pinimg.com/564x/4a/31/b5/4a31b5d5476d9ee82d305af2d33df19e.jpg");
+            background-position: 50% 73.17%;
+        }
+
+        .u-section-7 .u-image-2 {
+            min-height: 447px;
+            background-image: url("https://i.pinimg.com/564x/83/10/36/831036fa7c87489c776ce4a8d8e378c5.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-7 .u-layout-cell-3 {
+            min-height: 232px;
+        }
+
+        .u-section-7 .u-container-layout-3 {
+            padding-left: 60px;
+            padding-right: 60px;
+        }
+
+        .u-section-7 .u-text-1 {
+            margin: 20px 0 0;
+        }
+
+        .u-section-7 .u-text-2 {
+            margin: 28px 0 12px;
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-7 .u-layout-wrap-1 {
+                margin-right: initial;
+                margin-left: initial;
+            }
+            .u-section-7 .u-image-1 {
+                min-height: 382px;
+            }
+            .u-section-7 .u-image-2 {
+                min-height: 382px;
+            }
+            .u-section-7 .u-layout-cell-3 {
+                min-height: 148px;
+            }
+            .u-section-7 .u-container-layout-3 {
+                padding-left: 49px;
+                padding-right: 49px;
+            }
+            .u-section-7 .u-text-1 {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+            .u-section-7 .u-text-2 {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-7 .u-sheet-1 {
+                min-height: 499px;
+            }
+            .u-section-7 .u-image-1 {
+                min-height: 356px;
+            }
+            .u-section-7 .u-image-2 {
+                min-height: 356px;
+            }
+            .u-section-7 .u-layout-cell-3 {
+                min-height: 173px;
+            }
+            .u-section-7 .u-container-layout-3 {
+                padding-left: 38px;
+                padding-right: 38px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-7 .u-sheet-1 {
+                min-height: 798px;
+            }
+            .u-section-7 .u-image-1 {
+                min-height: 329px;
+            }
+            .u-section-7 .u-image-2 {
+                min-height: 331px;
+            }
+            .u-section-7 .u-layout-cell-3 {
+                min-height: 168px;
+            }
+            .u-section-7 .u-container-layout-3 {
+                padding-left: 28px;
+                padding-right: 28px;
+            }
+            .u-section-7 .u-text-1 {
+                margin-left: 9px;
+                margin-right: 9px;
+            }
+            .u-section-7 .u-text-2 {
+                margin-left: 9px;
+                margin-right: 9px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-7 .u-sheet-1 {
+                min-height: 800px;
+            }
+            .u-section-7 .u-image-1 {
+                min-height: 310px;
+            }
+            .u-section-7 .u-image-2 {
+                min-height: 309px;
+            }
+            .u-section-7 .u-layout-cell-3 {
+                min-height: 211px;
+            }
+            .u-section-7 .u-container-layout-3 {
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+            .u-section-7 .u-text-1 {
+                margin-left: 6px;
+                margin-right: 6px;
+            }
+            .u-section-7 .u-text-2 {
+                margin-left: 6px;
+                margin-right: 6px;
+            }
+        }
+    </style>
+    <style class="u-style">
+        .u-section-8 .u-sheet-1 {
+            min-height: 403px;
+        }
+
+        .u-section-8 .u-layout-wrap-1 {
+            margin-top: 70px;
+            margin-bottom: 70px;
+        }
+
+        .u-section-8 .u-image-1 {
+            min-height: 593px;
+            background-image: url("https://i.pinimg.com/564x/18/c5/45/18c545e670ef1eeaba728c74874533b9.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-8 .u-image-2 {
+            min-height: 593px;
+            background-image: url("https://i.pinimg.com/564x/f4/c7/c8/f4c7c87c305a08b41360aefe7ec97a3a.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-8 .u-image-3 {
+            min-height: 593px;
+            background-image: url("https://i.pinimg.com/564x/2f/d8/01/2fd80112316180ee9d0847508e30cd7f.jpg");
+            background-position: 50% 50%;
+        }
+
+        .u-section-8 .u-image-4 {
+            min-height: 593px;
+            background-image: url("https://i.pinimg.com/564x/c4/fd/d0/c4fdd04f0d880e1e34c5e339dcb9d556.jpg");
+            background-position: 50% 50%;
+        }
+    </style>
+    <meta property="og:title" content="wildlife-photography" />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#ff7070" />
+    <link rel="canonical" href="https://wildlife.nicepage.io/Page-1.html" />
+    <meta property="og:url" content="https://wildlife.nicepage.io/Page-1.html" />
+</head>
+
+<body class="u-body">
+    <header class="u-clearfix u-header" id="sec-11b4">
+        <div class="u-align-left u-clearfix u-sheet u-sheet-1">
+            <h3 class="u-align-left-xs u-headline u-text u-text-1">
+                <a href="/">Wildlife</a>
+            </h3>
+        </div>
+    </header>
+
+    <section class="u-clearfix u-image u-shading u-section-2" src="" id="sec-55c2">
+        <div class="u-clearfix u-sheet u-sheet-1">
+            <div class="u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-group-1">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1">
+                    <h1 class="u-align-center u-text u-title u-text-1">
+                        Wildlife Conservation Project
+                    </h1>
+                    <p class="u-align-center u-large-text u-text u-text-variant u-text-2">
+                        Take a shot with your camera, not with a gun
+                    </p>
+                    <a href="https://wildlife-photos.my.canva.site/" class="u-border-radius-50 u-btn u-btn-round u-button-style u-white u-btn-1" title="view more" target="_blank">view more</a
+            >
+          </div>
+        </div>
+        <div
+          class="u-align-center-xs u-align-right-lg u-align-right-md u-align-right-sm u-align-right-xl u-container-style u-expanded-width-xs u-group u-group-2"
+        >
+          <div class="u-container-layout">
+            <p class="u-text u-text-3">join us.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-3" id="sec-413a">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div
+          class="u-align-center u-container-style u-expanded-width-md u-group u-group-1"
+        >
+          <div class="u-container-layout u-valign-middle u-container-layout-1">
+            <h2 class="u-text u-text-1">Explore The World</h2>
+            <p class="u-text u-text-2">
+              Stop wildlife crime, it's dead serious.
+            </p>
+          </div>
+        </div>
+        <div
+          class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1"
+        >
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-shading u-size-20 u-size-20-md u-image-1"
+              >
+                <div class="u-container-layout u-container-layout-2">
+                  <h3 class="u-text u-text-3">
+                    Human gather penguin droppings by using heavy equipments has brought in the destruction of African penguins.
+                  </h3>
+                </div>
+              </div>
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-shading u-size-20 u-size-20-md u-image-2"
+              >
+                <div class="u-container-layout u-container-layout-3">
+                  <h3 class="u-text u-text-4">
+                   Snow leopard were long hunted for their fur until their members became severely reduced.
+                  </h3>
+                </div>
+              </div>
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-right-cell u-shading u-size-20 u-size-20-md u-image-3"
+              >
+                <div class="u-container-layout u-container-layout-4">
+                  <h3 class="u-text u-text-5">
+                    Gaint manta rays are targeted and caught as bycatch in a number of global fisheries.
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="u-clearfix u-image u-shading u-section-4"
+      id="sec-7f2e"
+      data-image-width="1600"
+      data-image-height="867"
+    >
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-group u-group-1">
+          <div class="u-container-layout u-valign-middle u-container-layout-1">
+            <h2 class="u-align-center u-text u-text-1">
+             Raise Awareness
+            </h2>
+            <p class="u-align-center u-text u-text-2">
+             Act Fast, Act Today.
+            <p class="u-align-center u-text u-text-2"> 
+             Wildlife awareness refers to the knowledge and understanding of the importance of wildlife conservation, the protection of endangered species, and the preservation of their habitats. It involves creating public awareness about the value of biodiversity and the role that wildlife plays in maintaining ecological balance.wildlife awareness plays a crucial role in fostering a sense of responsibility and stewardship towards the natural world. By increasing knowledge and understanding, it helps create a more harmonious relationship between humans and wildlife, ensuring their coexistence for generations to come.
+              </p>
+             
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-5" id="sec-bd7f">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div
+          class="u-container-style u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-group-1"
+        >
+          <div class="u-container-layout u-valign-middle u-container-layout-1">
+            <h2 class="u-align-center u-text u-text-1">
+             Wildlife Conservation Efforts.
+            </h2>
+            <h3 class="u-align-center u-text u-text-1"></h3>
+            Join hands and save the wildlife.
+            <p class="u-align-center u-text u-text-2">
+             We are doing thousands of activities that are endangering the wildlife species in danger. We should do the conservation of forests and wildlife in India and every other country and protect these species because there are many benefits for humans and animals including taking steps for wildlife conservation. So, let us discuss the importance of wildlife conservation. The Wildlife Protection Act, 1972 which was implemented to protect our wild animals, birds and plants. Further, a Wildlife Crime Control Bureau has been set up to curb illegal trade or smuggling of endangered species in the country.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="u-clearfix u-image u-section-6"
+      id="sec-e021"
+      data-image-width="1600"
+      data-image-height="960"
+    >
+      <div class="u-clearfix u-sheet u-sheet-1"></div>
+    </section>
+    <section class="u-clearfix u-section-7" id="sec-f798">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div
+          class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1"
+        >
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-col">
+              <div class="u-size-30">
+                <div class="u-layout-row">
+                  <div
+                    class="u-align-center u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1"
+                  >
+                    <div class="u-container-layout" src=""></div>
+                  </div>
+                  <div
+                    class="u-align-center u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-2"
+                  >
+                    <div class="u-container-layout" src=""></div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-size-30">
+                <div class="u-layout-row">
+                  <div
+                    class="u-container-style u-layout-cell u-left-cell u-right-cell u-size-60 u-layout-cell-3"
+                  >
+                    <div class="u-container-layout u-container-layout-3">
+                      <h2 class="u-align-center u-text u-text-1">
+                        Animals are in need
+                      </h2>
+                      <p class="u-align-center u-text u-text-1">
+                        Sustainability practices play a crucial role in wildlife conservation efforts. By adopting sustainable practices, we can minimize the negative impact on ecosystems and ensure the long-term well-being of wildlife populations. Here are some key sustainability practices for wildlife conservation.
+                        </p>
+                        <p class="u-align-center u-text u-text-1">
+                       Habitat preservation: Protecting and preserving natural habitats is essential for wildlife conservation.
+                       
+                       </p>
+                       <p class="u-align-center u-text u-text-1">
+                       Sustainable land and resource management:
+                           This includes responsible agriculture techniques such as organic farming, agroforestry, and integrated pest management, which reduce chemical inputs and habitat destruction.
+                           </p>
+                     <p class="u-align-center u-text u-text-1">
+                      Combatting illegal wildlife trade: Illegal wildlife trade is a major threat to many species. Governments, conservation organizations, and communities should work together to enforce strict regulations and penalties.
+                      </p>
+                      <p class="u-align-center u-text u-text-1">
+                     Scientific research and monitoring: Continuous research, monitoring, and data collection are fundamental to effective wildlife conservation
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-8" id="sec-1a94">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div
+          class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1"
+        >
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-15 u-size-30-md u-image-1"
+              >
+                <div class="u-container-layout"></div>
+              </div>
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-2"
+              >
+                <div class="u-container-layout"></div>
+              </div>
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-3"
+              >
+                <div class="u-container-layout"></div>
+              </div>
+              <div
+                class="u-align-left u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-4"
+              >
+                <div class="u-container-layout"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
